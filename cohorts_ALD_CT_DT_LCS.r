@@ -3,6 +3,7 @@
 #  Controlling for cohort effects in accelerated longitudinal
 #  designs using continuous- and discrete-time dynamic models
 #  Psychological Methods
+#  https://doi.org/10.1037/met0000427
 
 library(OpenMx)
 
